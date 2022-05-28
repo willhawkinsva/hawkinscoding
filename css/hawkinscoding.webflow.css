@@ -4014,7 +4014,9 @@ span-swap-text-2 {}
 }
 
 @media screen and (max-width: 479px) {
-  
+  html, body {
+    overflow-x: hidden;
+  }
 
   h1 {
     font-size: 40px;
