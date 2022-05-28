@@ -4018,6 +4018,10 @@ span-swap-text-2 {}
     overflow-x: hidden;
   }
 
+  .swap-text {
+    line-height: 129%;
+  }
+
   h1 {
     font-size: 40px;
   }
