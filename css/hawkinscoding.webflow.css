@@ -3054,6 +3054,7 @@ span-swap-text-2 {}
 }
 
 @media screen and (min-width: 1920px) {
+  
   .image.home-hero {
     -o-object-position: 50% 100%;
     object-position: 50% 100%;
@@ -3083,6 +3084,15 @@ span-swap-text-2 {}
 }
 
 @media screen and (max-width: 991px) {
+  .project-detail-image-wrapper-2 {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 475px;
+    justify-content: center;
+    text-align: center;
+  }
+
   h1 {
     font-size: 68px;
   }
@@ -3625,6 +3635,15 @@ span-swap-text-2 {}
 }
 
 @media screen and (max-width: 767px) {
+  .project-detail-image-wrapper-2 {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 320px;
+    justify-content: center;
+    text-align: center;
+  }
+
   h1 {
     font-size: 50px;
   }
@@ -4014,6 +4033,16 @@ span-swap-text-2 {}
 }
 
 @media screen and (max-width: 479px) {
+  .project-detail-image-wrapper-2 {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 250px;
+    justify-content: center;
+    text-align: center;
+  }
+  
+
   html, body {
     overflow-x: hidden;
   }
