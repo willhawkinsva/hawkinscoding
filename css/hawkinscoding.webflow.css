@@ -172,12 +172,6 @@ span.swap-text {}
  @keyframes animate{67%{content:"develop"}67%{content:"optimize"}
 }
 
-.swap-text-2::before{content:"shopify";animation:blog infinite 18s}
-
-span-swap-text-2 {}
-  @keyframes blog{100%{content:"people"}
-}
-
 .button-text.no-opacity {
   opacity: 0;
 }
