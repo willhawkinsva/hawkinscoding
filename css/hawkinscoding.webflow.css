@@ -178,7 +178,7 @@ span.swap-text {}
 
 .introvid-section{
   /* background: #000; */
-  padding: 8rem 0;
+  padding-top: 10rem;
   padding-bottom: 4rem;
 }
 .introvid-section-container{
@@ -4062,6 +4062,12 @@ span.swap-text {}
 }
 
 @media screen and (max-width: 479px) {
+  .introvid-section{
+    /* background: #000; */
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+  }
+
   .project-detail-image-wrapper-2 {
     position: relative;
     overflow: hidden;
