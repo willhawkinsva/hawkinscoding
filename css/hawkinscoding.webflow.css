@@ -4865,3 +4865,7 @@ span.swap-text {}
   font-style: normal;
   font-display: swap;
 }
+
+.width-33 {
+  width: 33%;
+}
