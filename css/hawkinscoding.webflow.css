@@ -178,7 +178,6 @@ span.swap-text {}
 
 .introvid-section{
   /* background: #000; */
-  padding-top: 10rem;
   padding-bottom: 2rem;
 }
 .introvid-section-container{
@@ -4870,6 +4869,6 @@ span.swap-text {}
   width: 33%;
 }
 
-.mac-img {
-  
+.testimonials-heading-wrapper {
+  max-width: 810px;
 }
